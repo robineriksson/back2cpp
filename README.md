@@ -1,2 +1,2 @@
 # back2cpp
-An algotrading backtesting software written with speed in mind. 
+An algotrading backtesting code written with speed somewhat in mind. 
